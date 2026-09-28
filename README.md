@@ -11,5 +11,3 @@ Existe para cumplir los requisitos de la pantalla de autorización de Google (OA
 | Condiciones del servicio | https://juandrea-os.github.io/terms.html |
 
 HTML y CSS estáticos, sin dependencias externas ni rastreadores. Se publica con GitHub Pages desde la rama `main`.
-
-⚠️ Este repositorio es **público**. No añadas aquí notas, configuración ni nada del sistema: todo eso vive en los repositorios privados de la organización.
